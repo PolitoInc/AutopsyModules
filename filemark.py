@@ -1,3 +1,5 @@
+__author__ = 'Robin'
+
 import jarray
 import inspect
 from java.lang import System
